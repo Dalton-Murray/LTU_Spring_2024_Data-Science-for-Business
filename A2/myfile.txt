@@ -1,0 +1,2 @@
+firstName	lastName	classNumber	className	assigntmentNumber
+Dalton	Murray	INT7623	Data Science for Business	02
